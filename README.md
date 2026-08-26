@@ -2,7 +2,7 @@
 
 # NICOLÁS ÚNICA AGUILERA
 
-Location: Madrid, España | Personal Web Site: [nicolas-unica.web.app](https://nicolas-unica.web.app)
+Ubicación: Madrid, España | Sitio Web Personal: [nicolas-unica.web.app](https://nicolas-unica.web.app)
 
 ## Contacto
 
